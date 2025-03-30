@@ -13,24 +13,25 @@ The **Ghibli-Style Portrait Generator** is a web application built with **Stream
 ✅  Supports **CUDA acceleration** for faster processing on GPUs
 
 
+
 ## 🔧 Installation
 ### Prerequisites
 Ensure you have **Python 3.8+** installed.
 
-### Install Dependencies
+### ⏬ Install Dependencies
 Run the following command:
 ```bash
 pip install streamlit torch diffusers transformers accelerate Pillow
 ```
 
-## Usage
+## 📊 Usage
 Run the application using:
 ```bash
 streamlit run app.py
 ```
 Then, open the **localhost URL** provided in the terminal.
 
-## Model Used
+## 🤖 Model Used
 This application uses the **Stable Diffusion** model fine-tuned for **Ghibli-style** portraits:  
 🔗 [nitrosocke/Ghibli-Diffusion](https://huggingface.co/nitrosocke/Ghibli-Diffusion)
 
