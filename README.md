@@ -14,15 +14,18 @@ The **Ghibli-Style Portrait Generator** is a web application built with **Stream
 
 
 
+
 ## 🔧 Installation
 ### Prerequisites
 Ensure you have **Python 3.8+** installed.
+
 
 ### ⏬ Install Dependencies
 Run the following command:
 ```bash
 pip install streamlit torch diffusers transformers accelerate Pillow
 ```
+
 
 ## 📊 Usage
 Run the application using:
@@ -31,9 +34,12 @@ streamlit run app.py
 ```
 Then, open the **localhost URL** provided in the terminal.
 
+
 ## 🤖 Model Used
 This application uses the **Stable Diffusion** model fine-tuned for **Ghibli-style** portraits:  
 🔗 [nitrosocke/Ghibli-Diffusion](https://huggingface.co/nitrosocke/Ghibli-Diffusion)
+
+
 
 ## 📜 License
 This project is open-source under the MIT License. **Hugging Face's model usage guidelines** when using AI-generated images.
