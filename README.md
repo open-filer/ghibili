@@ -5,9 +5,13 @@ The **Ghibli-Style Portrait Generator** is a web application built with **Stream
 
 ## 🚀 Features
 ✅  Upload an image (JPG, JPEG, PNG)
+
 ✅  Generate a **Ghibli-style** version of the uploaded image
+
 ✅  Uses **Stable Diffusion** for high-quality AI-generated portraits
+
 ✅  Supports **CUDA acceleration** for faster processing on GPUs
+
 
 ## 🔧 Installation
 ### Prerequisites
