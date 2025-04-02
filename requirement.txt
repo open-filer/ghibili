@@ -1,5 +1,6 @@
 streamlit
-torch
+-f https://data.pyg.org/whl/torch-1.13.0+cpu.html
+torch-scatter
 torchvision==0.15.2+cpu
 torchaudio==2.0.2+cpu
 diffusers
