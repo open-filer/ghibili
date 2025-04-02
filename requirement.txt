@@ -1,5 +1,5 @@
 streamlit
-torch==2.0.1+cpu
+torch
 torchvision==0.15.2+cpu
 torchaudio==2.0.2+cpu
 diffusers
